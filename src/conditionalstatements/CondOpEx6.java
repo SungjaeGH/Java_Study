@@ -1,4 +1,4 @@
-package ConditionalStatements;
+package conditionalstatements;
 
 /*
 [문제: 더 큰 숫자 찾기]
